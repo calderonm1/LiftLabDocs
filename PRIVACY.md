@@ -135,7 +135,7 @@ We may update this Policy from time to time. The "Last updated" date at the top 
 Questions, requests, or privacy concerns:
 
 **Email:** support@kineticapp.co
-**Mail:** Kinetic — Privacy, [your mailing address here]
+**Mail:** Kinetic — Privacy, 23 Paddock Road, Marlton NJ
 
 ---
 
