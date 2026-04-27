@@ -9,7 +9,7 @@ These Terms of Service ("Terms") govern your use of the Kinetic iOS app ("Kineti
 
 ## 1. Who We Are
 
-Kinetic is an iOS app that analyzes barbell exercise form using Apple Vision 3D pose estimation and AI coaching powered by Anthropic's Claude API. Kinetic is provided by [your legal entity here] ("we", "us", "our").
+Kinetic is an iOS app that analyzes barbell exercise form using Apple Vision 3D pose estimation and AI coaching powered by Anthropic's Claude API. Kinetic is provided by Mateo Calderon ("we", "us", "our").
 
 ## 2. Eligibility
 
@@ -114,5 +114,5 @@ If you download the App from the Apple App Store, the following additional terms
 
 ## 16. Contact
 
-**Email:** support@kineticapp.co
-**Mail:** Kinetic, [your mailing address here]
+**Email:** contact.kineticapp@gmail.com
+**Mail:** Kinetic, 23 Paddock Road, Marlton, NJ
