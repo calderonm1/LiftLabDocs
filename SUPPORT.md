@@ -6,8 +6,8 @@ Welcome to Kinetic support. Find answers to common questions below, or reach out
 
 ## Contact Us
 
-**Email:** support@kineticapp.co
-**Response time:** We typically respond within 1–2 business days.
+**Email:** contact.kineticapp@gmail.com
+**Response time:** We aim to respond within 1–2 business days.
 
 ---
 

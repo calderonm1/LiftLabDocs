@@ -1,4 +1,4 @@
-# Kinetic Docs
+# Kinetic Documentation
 
 Welcome to the Kinetic documentation site. Use the links below to navigate.
 
